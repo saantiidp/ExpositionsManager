@@ -159,15 +159,6 @@ Demuestra experiencia en:
 - Diseño orientado a dominio
 - Calidad, pruebas y mantenibilidad
 - Enfoque de ingeniería y no solo implementación
-
----
-
-## 👨‍💻 Autores
-
-- David Yuan Hao Sun  
-- Santiago de Prada Lorenzo  
-- Marouane Chahbar  
-
 ---
 
 ## 📎 Documentación Incluida
