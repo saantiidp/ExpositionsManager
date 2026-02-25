@@ -1,0 +1,5 @@
+package enums;
+
+public enum EstadoExposicion {
+	DADA_ALTA, CANCELADA, BORRADOR, CERRADA_TEMPORALMENTE, PRORROGADA, FINALIZADA;
+}
